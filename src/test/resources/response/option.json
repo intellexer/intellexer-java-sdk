@@ -1,0 +1,21 @@
+{
+  "topics": [],
+  "reorderConcepts": [
+    {
+      "term": "fish",
+      "selection": [
+        "farmed fish",
+        "commercial fish"
+      ]
+    }
+  ],
+  "reorderNamedEntities": [
+    {
+      "term": "fishing",
+      "selection": [
+        "sport fishing",
+        "commercial fishing"
+      ]
+    }
+  ]
+}

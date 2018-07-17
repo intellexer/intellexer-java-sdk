@@ -1,0 +1,67 @@
+{
+  "inputSize": 148,
+  "sentencesCount": 2,
+  "processedSentences": [
+    "The good thing about this way of building objects of the classes is that it works.",
+    "However, the problem with this approach should be pretty obvious."
+  ],
+  "sourceSentences": [
+    "The goor thing about this way of bulilding objects of the classs is that it works . ",
+    "However , the problem with this approach should be pretty obvious . "
+  ],
+  "corrections": [
+    {
+      "l": 4,
+      "ndx": 0,
+      "s": 4,
+      "v": [
+        {
+          "t": "good",
+          "w": 117
+        },
+        {
+          "t": "go or",
+          "w": 111
+        },
+        {
+          "t": "goer",
+          "w": 34
+        },
+        {
+          "t": "goof",
+          "w": 31
+        },
+        {
+          "t": "boor",
+          "w": 12
+        }
+      ]
+    },
+    {
+      "l": 9,
+      "ndx": 0,
+      "s": 33,
+      "v": [
+        {
+          "t": "building",
+          "w": 110
+        }
+      ]
+    },
+    {
+      "l": 6,
+      "ndx": 0,
+      "s": 58,
+      "v": [
+        {
+          "t": "classes",
+          "w": 177
+        },
+        {
+          "t": "class",
+          "w": 172
+        }
+      ]
+    }
+  ]
+}

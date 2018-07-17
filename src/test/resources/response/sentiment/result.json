@@ -1,0 +1,38 @@
+{
+  "sentimentsCount": 2,
+  "ontology": null,
+  "sentences": [
+    {
+      "sid": "12",
+      "text": "Hello, world!",
+      "w": 0
+    },
+    {
+      "sid": "12",
+      "text": "It 's benn a <pos w=\"4.95\">great<\/pos> <obj>day<\/obj>.",
+      "w": 1
+    },
+    {
+      "sid": "45",
+      "text": "<obj>Intellexer<\/obj> <obj>Summarizer<\/obj> <pos w=\"1.65\">has<\/pos> <pos w=\"1.65\">an<\/pos> <pos w=\"1.65\">unique<\/pos> <pos w=\"1.65\">feature<\/pos>.",
+      "w": 1
+    }
+  ],
+  "opinions": null,
+  "sentiments": [
+    {
+      "author": null,
+      "dt": null,
+      "id": "12",
+      "title": null,
+      "w": 1
+    },
+    {
+      "author": null,
+      "dt": null,
+      "id": "45",
+      "title": null,
+      "w": 1
+    }
+  ]
+}

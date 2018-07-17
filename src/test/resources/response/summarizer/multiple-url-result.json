@@ -1,0 +1,5970 @@
+{
+  "documents": [
+    {
+      "id": 0,
+      "size": 12185,
+      "title": "https:\/\/jlordiales.wordpress.com\/2012\/12\/13\/the-builder-pattern-in-practice\/",
+      "url": "https:\/\/jlordiales.wordpress.com\/2012\/12\/13\/the-builder-pattern-in-practice\/",
+      "error": null,
+      "sizeFormat": "11,90 KB"
+    },
+    {
+      "id": 0,
+      "size": 18110,
+      "title": "jackson-objectmapper.html",
+      "url": "http:\/\/tutorials.jenkov.com\/java-json\/jackson-objectmapper.html",
+      "error": null,
+      "sizeFormat": "17,69 KB"
+    }
+  ],
+  "topics": [],
+  "structure": null,
+  "items": [],
+  "conceptTree": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              213
+            ],
+            "st": 0,
+            "text": "corresponding object",
+            "w": 1
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              66,
+              67,
+              69,
+              70,
+              91,
+              95,
+              210,
+              212,
+              213,
+              242,
+              353,
+              354,
+              461
+            ],
+            "st": 0,
+            "text": "java object",
+            "w": 1
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              67,
+              69,
+              228,
+              231,
+              499
+            ],
+            "st": 0,
+            "text": "json object",
+            "w": 0.81217224036398172
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              546,
+              576
+            ],
+            "st": 0,
+            "text": "nested object",
+            "w": 0.785784162029312
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              179
+            ],
+            "st": 0,
+            "text": "new object",
+            "w": 0.7790575879877647
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              107,
+              179,
+              191
+            ],
+            "st": 0,
+            "text": "user object",
+            "w": 0.7790575879877647
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              110,
+              209
+            ],
+            "st": 0,
+            "text": "immutable object",
+            "w": 0.60046290145601666
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              153
+            ],
+            "st": 0,
+            "text": "reading object",
+            "w": 0.41632021204209924
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              194
+            ],
+            "st": 0,
+            "text": "multiple object",
+            "w": 0.262953218127265
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              50
+            ],
+            "st": 0,
+            "text": "building object",
+            "w": 0.2210260440365984
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              103
+            ],
+            "st": 0,
+            "text": "empty object",
+            "w": 0.2210260440365984
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          29,
+          50,
+          103,
+          107,
+          108,
+          110,
+          179,
+          191,
+          192,
+          194,
+          198,
+          199,
+          209,
+          218,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          66,
+          67,
+          69,
+          70,
+          91,
+          94,
+          95,
+          109,
+          119,
+          127,
+          132,
+          133,
+          142,
+          143,
+          152,
+          153,
+          156,
+          168,
+          183,
+          195,
+          208,
+          210,
+          212,
+          213,
+          228,
+          231,
+          242,
+          298,
+          309,
+          327,
+          337,
+          353,
+          354,
+          364,
+          410,
+          412,
+          417,
+          458,
+          461,
+          499,
+          523,
+          525,
+          546,
+          576
+        ],
+        "st": 0,
+        "text": "object",
+        "w": 1
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              25,
+              117
+            ],
+            "st": 0,
+            "text": "final phone",
+            "w": 1
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              25,
+              69,
+              117,
+              145
+            ],
+            "st": 0,
+            "text": "private string phone",
+            "w": 1
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              90,
+              136
+            ],
+            "st": 0,
+            "text": "return phone",
+            "w": 0.63171884272241752
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              155
+            ],
+            "st": 0,
+            "text": "public userbuilder phone",
+            "w": 0.35329155212145785
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          25,
+          40,
+          41,
+          43,
+          47,
+          58,
+          69,
+          90,
+          92,
+          93,
+          117,
+          136,
+          145,
+          155,
+          156
+        ],
+        "st": 0,
+        "text": "phone",
+        "w": 1
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              26,
+              118
+            ],
+            "st": 0,
+            "text": "final address",
+            "w": 0.99421584143173936
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              26,
+              70,
+              118,
+              146
+            ],
+            "st": 0,
+            "text": "private string address",
+            "w": 0.99421584143173936
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              96,
+              139
+            ],
+            "st": 0,
+            "text": "return address",
+            "w": 0.62593468415415665
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              159
+            ],
+            "st": 0,
+            "text": "public userbuilder address",
+            "w": 0.35039947283732742
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              187
+            ],
+            "st": 0,
+            "text": "fake address",
+            "w": 0.218133964752468
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          26,
+          43,
+          48,
+          58,
+          61,
+          70,
+          96,
+          98,
+          99,
+          118,
+          139,
+          146,
+          159,
+          160,
+          187
+        ],
+        "st": 0,
+        "text": "address",
+        "w": 0.99421584143173936
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              379
+            ],
+            "st": 0,
+            "text": "custom serializer example",
+            "w": 0.95983931388130683
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              379,
+              511
+            ],
+            "st": 0,
+            "text": "jackson example",
+            "w": 0.95983931388130683
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "previous example",
+            "w": 0.61356034847645158
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              201
+            ],
+            "st": 0,
+            "text": "user example",
+            "w": 0.61356034847645158
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "mp": false,
+                "sentenceIds": [
+                  27
+                ],
+                "st": 0,
+                "text": "jackson objectmapper example",
+                "w": 0.47991965694065342
+              }
+            ],
+            "mp": false,
+            "sentenceIds": [
+              27
+            ],
+            "st": 0,
+            "text": "objectmapper example",
+            "w": 0.47991965694065342
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              511
+            ],
+            "st": 0,
+            "text": "tree model example",
+            "w": 0.38735844365551247
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              309
+            ],
+            "st": 0,
+            "text": "earlier example",
+            "w": 0.29213964667401693
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              104
+            ],
+            "st": 0,
+            "text": "simplified example",
+            "w": 0.29213964667401693
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          173,
+          201,
+          27,
+          30,
+          96,
+          104,
+          113,
+          128,
+          140,
+          147,
+          156,
+          169,
+          193,
+          233,
+          307,
+          309,
+          316,
+          342,
+          350,
+          365,
+          379,
+          467,
+          484,
+          493,
+          511,
+          533,
+          545
+        ],
+        "st": 0,
+        "text": "example",
+        "w": 0.95983931388130683
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              165,
+              170
+            ],
+            "st": 0,
+            "text": "object array",
+            "w": 0.94370000261147824
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              183
+            ],
+            "st": 0,
+            "text": "reading array",
+            "w": 0.35421304883192756
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              152
+            ],
+            "st": 0,
+            "text": "json byte array",
+            "w": 0.34191018653943872
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          152,
+          155,
+          159,
+          165,
+          168,
+          170,
+          180,
+          183,
+          341,
+          546,
+          576,
+          588,
+          592
+        ],
+        "st": 0,
+        "text": "array",
+        "w": 0.94370000261147824
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              57
+            ],
+            "st": 0,
+            "text": "class car",
+            "w": 0.91013031882631823
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              57,
+              277
+            ],
+            "st": 0,
+            "text": "public car",
+            "w": 0.91013031882631823
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              396
+            ],
+            "st": 0,
+            "text": "car car",
+            "w": 0.55852295888764669
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              295
+            ],
+            "st": 0,
+            "text": "return car",
+            "w": 0.39893882231041661
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          42,
+          55,
+          57,
+          173,
+          175,
+          181,
+          207,
+          277,
+          295,
+          308,
+          315,
+          319,
+          326,
+          348,
+          363,
+          367,
+          378,
+          396,
+          411,
+          524
+        ],
+        "st": 0,
+        "text": "car",
+        "w": 0.91013031882631823
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              65,
+              86
+            ],
+            "st": 0,
+            "text": "java field",
+            "w": 0.895264168879422
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              573
+            ],
+            "st": 0,
+            "text": "nested field",
+            "w": 0.895264168879422
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              198,
+              86,
+              573
+            ],
+            "st": 0,
+            "text": "object field",
+            "w": 0.895264168879422
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              546
+            ],
+            "st": 0,
+            "text": "access field",
+            "w": 0.7344477983477441
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              209
+            ],
+            "st": 0,
+            "text": "ignore field",
+            "w": 0.7344477983477441
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              70,
+              73,
+              80,
+              86,
+              209,
+              546
+            ],
+            "st": 0,
+            "text": "json field",
+            "w": 0.7344477983477441
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              209,
+              218
+            ],
+            "st": 0,
+            "text": "unknown field",
+            "w": 0.7344477983477441
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              571
+            ],
+            "st": 0,
+            "text": "array field",
+            "w": 0.49231635413272146
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              355
+            ],
+            "st": 0,
+            "text": "certain field",
+            "w": 0.33543390624489489
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              215
+            ],
+            "st": 0,
+            "text": "extra field",
+            "w": 0.30364391331591772
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              198
+            ],
+            "st": 0,
+            "text": "builder field",
+            "w": 0.25446784339970441
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              195
+            ],
+            "st": 0,
+            "text": "generated field",
+            "w": 0.13827742428094186
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          195,
+          198,
+          65,
+          67,
+          69,
+          70,
+          73,
+          80,
+          86,
+          209,
+          210,
+          213,
+          215,
+          218,
+          230,
+          355,
+          433,
+          471,
+          497,
+          546,
+          550,
+          565,
+          567,
+          571,
+          573,
+          576,
+          584
+        ],
+        "st": 0,
+        "text": "field",
+        "w": 0.895264168879422
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              69,
+              211,
+              414
+            ],
+            "st": 0,
+            "text": "default jackson",
+            "w": 0.88330154570440067
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              28
+            ],
+            "st": 0,
+            "text": "quick java jackson",
+            "w": 0.36084966016132231
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          9,
+          10,
+          28,
+          66,
+          67,
+          68,
+          69,
+          71,
+          90,
+          145,
+          153,
+          166,
+          189,
+          204,
+          211,
+          215,
+          216,
+          222,
+          235,
+          243,
+          250,
+          299,
+          353,
+          356,
+          414,
+          421,
+          458,
+          478,
+          487,
+          499,
+          506
+        ],
+        "st": 0,
+        "text": "jackson",
+        "w": 0.88330154570440067
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              439,
+              452
+            ],
+            "st": 0,
+            "text": "date date",
+            "w": 0.87880594748093688
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              450
+            ],
+            "st": 0,
+            "text": "return date",
+            "w": 0.36379010605574236
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          416,
+          422,
+          424,
+          426,
+          432,
+          439,
+          441,
+          450,
+          452,
+          453,
+          468,
+          470,
+          472,
+          476,
+          494,
+          496
+        ],
+        "st": 0,
+        "text": "date",
+        "w": 0.87880594748093688
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              18,
+              109
+            ],
+            "st": 0,
+            "text": "user class",
+            "w": 0.80789802348539563
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              176
+            ],
+            "st": 0,
+            "text": "array class",
+            "w": 0.46066676941997142
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              534
+            ],
+            "st": 0,
+            "text": "jackson jsonnode class",
+            "w": 0.45977433886980418
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "mp": false,
+                "sentenceIds": [
+                  6
+                ],
+                "st": 0,
+                "text": "jackson objectmapper class",
+                "w": 0.45977433886980418
+              }
+            ],
+            "mp": false,
+            "sentenceIds": [
+              6
+            ],
+            "st": 0,
+            "text": "objectmapper class",
+            "w": 0.45977433886980418
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              431
+            ],
+            "st": 0,
+            "text": "example java class",
+            "w": 0.45050971720307836
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              223
+            ],
+            "st": 0,
+            "text": "userbuilder class",
+            "w": 0.39456500653295346
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              178
+            ],
+            "st": 0,
+            "text": "builder class",
+            "w": 0.35163668090417649
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              359
+            ],
+            "st": 0,
+            "text": "certain class",
+            "w": 0.30378432153214485
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              510
+            ],
+            "st": 0,
+            "text": "own class",
+            "w": 0.27199432860316763
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              178
+            ],
+            "st": 0,
+            "text": "static member class",
+            "w": 0.20004208128088194
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          18,
+          19,
+          28,
+          29,
+          30,
+          50,
+          106,
+          109,
+          169,
+          170,
+          178,
+          192,
+          223,
+          227,
+          229,
+          6,
+          43,
+          56,
+          176,
+          261,
+          359,
+          368,
+          383,
+          431,
+          502,
+          505,
+          510,
+          534,
+          581
+        ],
+        "st": 0,
+        "text": "class",
+        "w": 0.80789802348539563
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              413,
+              423,
+              425,
+              478,
+              479
+            ],
+            "st": 0,
+            "text": "date format",
+            "w": 0.80505919650501179
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              425
+            ],
+            "st": 0,
+            "text": "default format",
+            "w": 0.80505919650501179
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              479
+            ],
+            "st": 0,
+            "text": "exact format",
+            "w": 0.80505919650501179
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              413,
+              423,
+              425,
+              479
+            ],
+            "st": 0,
+            "text": "jackson format",
+            "w": 0.80505919650501179
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              475
+            ],
+            "st": 0,
+            "text": "serialization format",
+            "w": 0.21474958798586941
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              478
+            ],
+            "st": 0,
+            "text": "textual format",
+            "w": 0.21474958798586941
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          413,
+          423,
+          425,
+          469,
+          475,
+          478,
+          479
+        ],
+        "st": 0,
+        "text": "format",
+        "w": 0.80505919650501179
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              88,
+              89,
+              92
+            ],
+            "st": 0,
+            "text": "jackson annotation",
+            "w": 0.7664799079968172
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              90
+            ],
+            "st": 0,
+            "text": "java annotation",
+            "w": 0.35295380940773569
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          88,
+          89,
+          90,
+          92
+        ],
+        "st": 0,
+        "text": "annotation",
+        "w": 0.7664799079968172
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              21,
+              65,
+              113
+            ],
+            "st": 0,
+            "text": "class user",
+            "w": 0.75419155016003536
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              21,
+              34,
+              37,
+              40,
+              43,
+              65,
+              113
+            ],
+            "st": 0,
+            "text": "public user",
+            "w": 0.75419155016003536
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              164,
+              203,
+              216
+            ],
+            "st": 0,
+            "text": "new user",
+            "w": 0.64837914369214777
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              119
+            ],
+            "st": 0,
+            "text": "private user",
+            "w": 0.36279606475690807
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              207
+            ],
+            "st": 0,
+            "text": "return user",
+            "w": 0.33966364431976859
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          21,
+          34,
+          37,
+          40,
+          43,
+          65,
+          113,
+          119,
+          164,
+          183,
+          203,
+          207,
+          209,
+          216
+        ],
+        "st": 0,
+        "text": "user",
+        "w": 0.75419155016003536
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              434
+            ],
+            "st": 0,
+            "text": "class transaction",
+            "w": 0.70469046977732663
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              434,
+              439
+            ],
+            "st": 0,
+            "text": "public transaction",
+            "w": 0.70469046977732663
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              463
+            ],
+            "st": 0,
+            "text": "new transaction",
+            "w": 0.38801330572503873
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          434,
+          439,
+          457,
+          463,
+          465,
+          491
+        ],
+        "st": 0,
+        "text": "transaction",
+        "w": 0.70469046977732663
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              165,
+              168,
+              170,
+              188,
+              192,
+              195
+            ],
+            "st": 0,
+            "text": "array string",
+            "w": 0.70261505347460951
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              94,
+              95,
+              97,
+              165,
+              168,
+              170,
+              188,
+              192,
+              195,
+              221,
+              225,
+              242,
+              521,
+              571
+            ],
+            "st": 0,
+            "text": "json string",
+            "w": 0.70261505347460951
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          61,
+          13,
+          53,
+          94,
+          95,
+          97,
+          165,
+          168,
+          170,
+          183,
+          188,
+          192,
+          195,
+          221,
+          225,
+          242,
+          379,
+          422,
+          497,
+          521,
+          571,
+          582
+        ],
+        "st": 0,
+        "text": "string",
+        "w": 0.70261505347460951
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              24,
+              116
+            ],
+            "st": 0,
+            "text": "final age",
+            "w": 0.70258300326309142
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              24,
+              37,
+              40,
+              43,
+              68,
+              86,
+              116,
+              144,
+              151
+            ],
+            "st": 0,
+            "text": "int age",
+            "w": 0.70258300326309142
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              24,
+              68,
+              116,
+              144
+            ],
+            "st": 0,
+            "text": "private age",
+            "w": 0.70258300326309142
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              84,
+              133
+            ],
+            "st": 0,
+            "text": "return age",
+            "w": 0.65631816238881246
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              151
+            ],
+            "st": 0,
+            "text": "public userbuilder age",
+            "w": 0.36559121195465527
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          24,
+          37,
+          38,
+          40,
+          41,
+          43,
+          46,
+          58,
+          68,
+          84,
+          86,
+          87,
+          116,
+          133,
+          144,
+          151,
+          152,
+          205,
+          212,
+          213,
+          215
+        ],
+        "st": 0,
+        "text": "age",
+        "w": 0.70258300326309142
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              70,
+              71,
+              75
+            ],
+            "st": 0,
+            "text": "setter method",
+            "w": 0.68235867157206753
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              197
+            ],
+            "st": 0,
+            "text": "build method",
+            "w": 0.34268760260431341
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              107
+            ],
+            "st": 0,
+            "text": "setx method",
+            "w": 0.26636008556643909
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          107,
+          194,
+          197,
+          218,
+          49,
+          70,
+          71,
+          75,
+          102,
+          178,
+          303,
+          325,
+          407,
+          530,
+          579,
+          584,
+          590
+        ],
+        "st": 0,
+        "text": "method",
+        "w": 0.68235867157206753
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              19,
+              499
+            ],
+            "st": 0,
+            "text": "built-in model",
+            "w": 0.66952256791556486
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              498,
+              500,
+              503
+            ],
+            "st": 0,
+            "text": "jackson model",
+            "w": 0.66952256791556486
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              19,
+              498,
+              499,
+              500,
+              503,
+              510,
+              542
+            ],
+            "st": 0,
+            "text": "tree model",
+            "w": 0.66952256791556486
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              19,
+              498
+            ],
+            "st": 0,
+            "text": "json model",
+            "w": 0.58547439833739379
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          19,
+          498,
+          499,
+          500,
+          503,
+          510,
+          542
+        ],
+        "st": 0,
+        "text": "model",
+        "w": 0.66952256791556486
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              0,
+              13,
+              111,
+              175,
+              227
+            ],
+            "st": 0,
+            "text": "builder pattern",
+            "w": 0.655908618185412
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              17
+            ],
+            "st": 0,
+            "text": "original pattern",
+            "w": 0.21176388997394341
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          0,
+          13,
+          14,
+          16,
+          17,
+          111,
+          175,
+          177,
+          193,
+          218,
+          227,
+          230
+        ],
+        "st": 0,
+        "text": "pattern",
+        "w": 0.655908618185412
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              30,
+              31
+            ],
+            "st": 0,
+            "text": "optional attribute",
+            "w": 0.64875083593724459
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              31
+            ],
+            "st": 0,
+            "text": "required attribute",
+            "w": 0.52590643625453
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              177
+            ],
+            "st": 0,
+            "text": "class attribute",
+            "w": 0.380144788784138
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              194
+            ],
+            "st": 0,
+            "text": "builder attribute",
+            "w": 0.33721646315536097
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          18,
+          28,
+          30,
+          31,
+          107,
+          171,
+          177,
+          194,
+          227
+        ],
+        "st": 0,
+        "text": "attribute",
+        "w": 0.64875083593724459
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              22,
+              114,
+              142
+            ],
+            "st": 0,
+            "text": "final firstname",
+            "w": 0.63427542896467759
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              22,
+              66,
+              114,
+              142
+            ],
+            "st": 0,
+            "text": "private string firstname",
+            "w": 0.63427542896467759
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              72,
+              127
+            ],
+            "st": 0,
+            "text": "return firstname",
+            "w": 0.26599427168709505
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          22,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          43,
+          44,
+          66,
+          72,
+          74,
+          75,
+          114,
+          127,
+          142,
+          147,
+          148
+        ],
+        "st": 0,
+        "text": "firstname",
+        "w": 0.63427542896467759
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              23,
+              115,
+              143
+            ],
+            "st": 0,
+            "text": "final lastname",
+            "w": 0.63427542896467759
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              23,
+              67,
+              115,
+              143
+            ],
+            "st": 0,
+            "text": "private string lastname",
+            "w": 0.63427542896467759
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              78,
+              130
+            ],
+            "st": 0,
+            "text": "return lastname",
+            "w": 0.26599427168709505
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          23,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          43,
+          45,
+          67,
+          78,
+          80,
+          81,
+          115,
+          130,
+          143,
+          147,
+          149
+        ],
+        "st": 0,
+        "text": "lastname",
+        "w": 0.63427542896467759
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              254,
+              372
+            ],
+            "st": 0,
+            "text": "new version",
+            "w": 0.61707664680519159
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              209
+            ],
+            "st": 0,
+            "text": "previous version",
+            "w": 0.11232155828458049
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          209,
+          254,
+          372
+        ],
+        "st": 0,
+        "text": "version",
+        "w": 0.61707664680519159
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              87,
+              352,
+              356
+            ],
+            "st": 0,
+            "text": "custom serializer",
+            "w": 0.60256449979124216
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          87,
+          352,
+          356,
+          358,
+          366
+        ],
+        "st": 0,
+        "text": "serializer",
+        "w": 0.60256449979124216
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              241,
+              246,
+              250
+            ],
+            "st": 0,
+            "text": "custom deserializer",
+            "w": 0.5816598450374072
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          87,
+          241,
+          246,
+          250
+        ],
+        "st": 0,
+        "text": "deserializer",
+        "w": 0.5816598450374072
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              169,
+              173,
+              176,
+              228
+            ],
+            "st": 0,
+            "text": "client code",
+            "w": 0.57445055927059607
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              210
+            ],
+            "st": 0,
+            "text": "following code",
+            "w": 0.19571258349052009
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              230
+            ],
+            "st": 0,
+            "text": "boiler plate code",
+            "w": 0.15591756133963816
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          53,
+          169,
+          173,
+          176,
+          191,
+          210,
+          228,
+          229,
+          230,
+          462
+        ],
+        "st": 0,
+        "text": "code",
+        "w": 0.57445055927059607
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              61
+            ],
+            "st": 0,
+            "text": "phone number",
+            "w": 0.56595190255933192
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              471
+            ],
+            "st": 0,
+            "text": "long number",
+            "w": 0.19796477287644534
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              195
+            ],
+            "st": 0,
+            "text": "serial number",
+            "w": 0.13827742428094186
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          52,
+          61,
+          195,
+          420,
+          427,
+          471
+        ],
+        "st": 0,
+        "text": "number",
+        "w": 0.56595190255933192
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              120,
+              128,
+              147
+            ],
+            "st": 0,
+            "text": "reading json",
+            "w": 0.51296281324939874
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              2
+            ],
+            "st": 0,
+            "text": "java json",
+            "w": 0.34016119458260025
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              337
+            ],
+            "st": 0,
+            "text": "generated json",
+            "w": 0.1826673289066367
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              307
+            ],
+            "st": 0,
+            "text": "generating json",
+            "w": 0.1826673289066367
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              13
+            ],
+            "st": 0,
+            "text": "parsed json",
+            "w": 0.1826673289066367
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          2,
+          9,
+          13,
+          15,
+          16,
+          18,
+          53,
+          90,
+          110,
+          120,
+          128,
+          132,
+          133,
+          143,
+          147,
+          153,
+          157,
+          210,
+          213,
+          214,
+          235,
+          258,
+          298,
+          301,
+          307,
+          328,
+          337,
+          349,
+          353,
+          354,
+          501,
+          508,
+          535
+        ],
+        "st": 0,
+        "text": "json",
+        "w": 0.51296281324939874
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          228,
+          231,
+          233
+        ],
+        "st": 0,
+        "text": "java",
+        "w": 0.50839282706123512
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          33,
+          61,
+          74,
+          107,
+          116,
+          162,
+          171,
+          196,
+          237,
+          252,
+          286,
+          351,
+          514,
+          548,
+          554,
+          556
+        ],
+        "st": 0,
+        "text": "brand",
+        "w": 0.4741681693634327
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              20
+            ],
+            "st": 0,
+            "text": "jackson databind",
+            "w": 0.4672865508303341
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          20
+        ],
+        "st": 0,
+        "text": "databind",
+        "w": 0.4672865508303341
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              595
+            ],
+            "st": 0,
+            "text": "jackson jsonparser",
+            "w": 0.4672865508303341
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          263,
+          595
+        ],
+        "st": 0,
+        "text": "jsonparser",
+        "w": 0.4672865508303341
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              3,
+              15
+            ],
+            "st": 0,
+            "text": "jackson objectmapper",
+            "w": 0.4672865508303341
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          3,
+          8,
+          11,
+          15,
+          22,
+          29,
+          99,
+          146,
+          167,
+          179,
+          190,
+          217,
+          223,
+          236,
+          244,
+          248,
+          251,
+          300,
+          317,
+          322,
+          331,
+          357,
+          360,
+          459,
+          483,
+          488,
+          507
+        ],
+        "st": 0,
+        "text": "objectmapper",
+        "w": 0.4672865508303341
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              63
+            ],
+            "st": 0,
+            "text": "int door",
+            "w": 0.33247469032991828
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          33,
+          63,
+          107,
+          116,
+          162,
+          237,
+          252,
+          289,
+          351,
+          514,
+          548,
+          557,
+          559
+        ],
+        "st": 0,
+        "text": "door",
+        "w": 0.44606287864686689
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              57,
+              59
+            ],
+            "st": 0,
+            "text": "default value",
+            "w": 0.42304137869645003
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              57
+            ],
+            "st": 0,
+            "text": "explicit value",
+            "w": 0.18506758773125312
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          57,
+          58,
+          59,
+          107,
+          174,
+          199,
+          215,
+          419,
+          550
+        ],
+        "st": 0,
+        "text": "value",
+        "w": 0.42304137869645003
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "mp": false,
+                "sentenceIds": [
+                  408
+                ],
+                "st": 0,
+                "text": "jackson jsongenerator instance",
+                "w": 0.42297744515963004
+              }
+            ],
+            "mp": false,
+            "sentenceIds": [
+              408
+            ],
+            "st": 0,
+            "text": "jsongenerator instance",
+            "w": 0.42297744515963004
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          106,
+          73,
+          112,
+          182,
+          184,
+          214,
+          320,
+          354,
+          408,
+          410,
+          539
+        ],
+        "st": 0,
+        "text": "instance",
+        "w": 0.42297744515963004
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              255
+            ],
+            "st": 0,
+            "text": "new cardeserializer",
+            "w": 0.4229435016114223
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              272
+            ],
+            "st": 0,
+            "text": "class cardeserializer",
+            "w": 0.35160735993867148
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              272,
+              273
+            ],
+            "st": 0,
+            "text": "public cardeserializer",
+            "w": 0.35160735993867148
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          254,
+          255,
+          260,
+          272,
+          273
+        ],
+        "st": 0,
+        "text": "cardeserializer",
+        "w": 0.4229435016114223
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              369
+            ],
+            "st": 0,
+            "text": "new carserializer",
+            "w": 0.4229435016114223
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              392
+            ],
+            "st": 0,
+            "text": "public class carserializer",
+            "w": 0.40193474342397284
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              393
+            ],
+            "st": 0,
+            "text": "protected carserializer",
+            "w": 0.09172653029706114
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          369,
+          372,
+          373,
+          382,
+          392,
+          393
+        ],
+        "st": 0,
+        "text": "carserializer",
+        "w": 0.4229435016114223
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              150
+            ],
+            "st": 0,
+            "text": "new fileinputstream",
+            "w": 0.4229435016114223
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          150
+        ],
+        "st": 0,
+        "text": "fileinputstream",
+        "w": 0.4229435016114223
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              315
+            ],
+            "st": 0,
+            "text": "new fileoutputstream",
+            "w": 0.4229435016114223
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          315,
+          329
+        ],
+        "st": 0,
+        "text": "fileoutputstream",
+        "w": 0.4229435016114223
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              489
+            ],
+            "st": 0,
+            "text": "new simpledateformat",
+            "w": 0.4229435016114223
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          481,
+          486,
+          489
+        ],
+        "st": 0,
+        "text": "simpledateformat",
+        "w": 0.4229435016114223
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              254,
+              372
+            ],
+            "st": 0,
+            "text": "new simplemodule",
+            "w": 0.4229435016114223
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          254,
+          372
+        ],
+        "st": 0,
+        "text": "simplemodule",
+        "w": 0.4229435016114223
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              117
+            ],
+            "st": 0,
+            "text": "new stringreader",
+            "w": 0.4229435016114223
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          117,
+          123
+        ],
+        "st": 0,
+        "text": "stringreader",
+        "w": 0.4229435016114223
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              130
+            ],
+            "st": 0,
+            "text": "new file",
+            "w": 0.4112582479270917
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              119
+            ],
+            "st": 0,
+            "text": "json file",
+            "w": 0.30922974812786536
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          13,
+          53,
+          119,
+          120,
+          126,
+          128,
+          130,
+          131,
+          184
+        ],
+        "st": 0,
+        "text": "file",
+        "w": 0.4112582479270917
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              119
+            ],
+            "st": 0,
+            "text": "userbuilder builder",
+            "w": 0.3858854440942493
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              220
+            ],
+            "st": 0,
+            "text": "public interface builder",
+            "w": 0.29564194750701667
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              194
+            ],
+            "st": 0,
+            "text": "single builder",
+            "w": 0.23110648056606178
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          119,
+          173,
+          174,
+          177,
+          194,
+          195,
+          196,
+          198,
+          199,
+          218,
+          220
+        ],
+        "st": 0,
+        "text": "builder",
+        "w": 0.3858854440942493
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "mp": false,
+                "sentenceIds": [
+                  593
+                ],
+                "st": 0,
+                "text": "jackson objectmapper tutorial",
+                "w": 0.3832399539984086
+              }
+            ],
+            "mp": false,
+            "sentenceIds": [
+              593
+            ],
+            "st": 0,
+            "text": "objectmapper tutorial",
+            "w": 0.3832399539984086
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "mp": false,
+                "sentenceIds": [
+                  93
+                ],
+                "st": 0,
+                "text": "jackson annotation tutorial",
+                "w": 0.35522442172110014
+              }
+            ],
+            "mp": false,
+            "sentenceIds": [
+              93
+            ],
+            "st": 0,
+            "text": "annotation tutorial",
+            "w": 0.35522442172110014
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "mp": false,
+                "sentenceIds": [
+                  25
+                ],
+                "st": 0,
+                "text": "jackson installation tutorial",
+                "w": 0.28606881276462615
+              }
+            ],
+            "mp": false,
+            "sentenceIds": [
+              25
+            ],
+            "st": 0,
+            "text": "installation tutorial",
+            "w": 0.28606881276462615
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          19,
+          25,
+          93,
+          533,
+          593
+        ],
+        "st": 0,
+        "text": "tutorial",
+        "w": 0.3832399539984086
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              18
+            ],
+            "st": 0,
+            "text": "jackson object mapper",
+            "w": 0.378682762234971
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          18
+        ],
+        "st": 0,
+        "text": "mapper",
+        "w": 0.378682762234971
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          537
+        ],
+        "st": 0,
+        "text": "tree",
+        "w": 0.378668339488926
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              9,
+              10
+            ],
+            "st": 0,
+            "text": "better understanding",
+            "w": 0.37463021879292385
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          9,
+          10
+        ],
+        "st": 0,
+        "text": "understanding",
+        "w": 0.37463021879292385
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              188
+            ],
+            "st": 0,
+            "text": "object list",
+            "w": 0.37411835909851088
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              191
+            ],
+            "st": 0,
+            "text": "java list",
+            "w": 0.34016119458260025
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          188,
+          191,
+          194,
+          205
+        ],
+        "st": 0,
+        "text": "list",
+        "w": 0.37411835909851088
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              169
+            ],
+            "st": 0,
+            "text": "user constructor",
+            "w": 0.368762076805865
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              174
+            ],
+            "st": 0,
+            "text": "builder constructor",
+            "w": 0.3164497459673436
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              17
+            ],
+            "st": 0,
+            "text": "multiple constructor",
+            "w": 0.24218650093924762
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              63
+            ],
+            "st": 0,
+            "text": "default no-arg constructor",
+            "w": 0.17658412465632672
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          17,
+          30,
+          31,
+          54,
+          59,
+          63,
+          169,
+          171,
+          174,
+          196
+        ],
+        "st": 0,
+        "text": "constructor",
+        "w": 0.368762076805865
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              108
+            ],
+            "st": 0,
+            "text": "client application",
+            "w": 0.35476230562477307
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          108,
+          23
+        ],
+        "st": 0,
+        "text": "application",
+        "w": 0.35476230562477307
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          365
+        ],
+        "st": 0,
+        "text": "custom",
+        "w": 0.3530831098386551
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          33,
+          107,
+          116,
+          162,
+          376,
+          380,
+          514,
+          548
+        ],
+        "st": 0,
+        "text": "mercedes",
+        "w": 0.3530831098386551
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              444
+            ],
+            "st": 0,
+            "text": "return type",
+            "w": 0.29621889778592081
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          439,
+          444,
+          446,
+          468,
+          494
+        ],
+        "st": 0,
+        "text": "type",
+        "w": 0.3530831098386551
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              224
+            ],
+            "st": 0,
+            "text": "java map",
+            "w": 0.35295380940773569
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          221,
+          224,
+          229,
+          232,
+          234
+        ],
+        "st": 0,
+        "text": "map",
+        "w": 0.35295380940773569
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              17
+            ],
+            "st": 0,
+            "text": "multiple optional parameter",
+            "w": 0.25856698990999949
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          17,
+          31,
+          55,
+          57,
+          59,
+          60,
+          196,
+          198,
+          199,
+          227,
+          47,
+          50,
+          98,
+          176,
+          201,
+          203,
+          405,
+          528,
+          582
+        ],
+        "st": 0,
+        "text": "parameter",
+        "w": 0.34954036796664639
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              141,
+              147
+            ],
+            "st": 0,
+            "text": "public userbuilder",
+            "w": 0.34085853320759318
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              141
+            ],
+            "st": 0,
+            "text": "static class userbuilder",
+            "w": 0.34085853320759318
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          141,
+          147,
+          184
+        ],
+        "st": 0,
+        "text": "userbuilder",
+        "w": 0.34085853320759318
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              75
+            ],
+            "st": 0,
+            "text": "java getter",
+            "w": 0.34016119458260025
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          63,
+          172,
+          70,
+          71,
+          75,
+          82
+        ],
+        "st": 0,
+        "text": "getter",
+        "w": 0.34016119458260025
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          154,
+          158,
+          163,
+          164,
+          340
+        ],
+        "st": 0,
+        "text": "byte",
+        "w": 0.33777264567467763
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          182
+        ],
+        "st": 0,
+        "text": "return",
+        "w": 0.33249283960886877
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              354
+            ],
+            "st": 0,
+            "text": "different field name",
+            "w": 0.32722261584309559
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              72
+            ],
+            "st": 0,
+            "text": "remaining name",
+            "w": 0.1826673289066367
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          70,
+          71,
+          72,
+          354
+        ],
+        "st": 0,
+        "text": "name",
+        "w": 0.32722261584309559
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          30,
+          53,
+          54,
+          103,
+          179
+        ],
+        "st": 0,
+        "text": "client",
+        "w": 0.32419113665928773
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              168,
+              196
+            ],
+            "st": 0,
+            "text": "important point",
+            "w": 0.32172401555898017
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          168,
+          196
+        ],
+        "st": 0,
+        "text": "point",
+        "w": 0.32172401555898017
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              109
+            ],
+            "st": 0,
+            "text": "json reader",
+            "w": 0.26949225696664392
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          109,
+          111,
+          118,
+          186
+        ],
+        "st": 0,
+        "text": "reader",
+        "w": 0.32009801192031806
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              211
+            ],
+            "st": 0,
+            "text": "field xyz",
+            "w": 0.31510972960305034
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          211
+        ],
+        "st": 0,
+        "text": "xyz",
+        "w": 0.31510972960305034
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              138
+            ],
+            "st": 0,
+            "text": "new url",
+            "w": 0.30853832340259579
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              140
+            ],
+            "st": 0,
+            "text": "file url",
+            "w": 0.29685306971826519
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              140
+            ],
+            "st": 0,
+            "text": "http url",
+            "w": 0.14292983774541523
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          132,
+          134,
+          138,
+          139,
+          140,
+          184
+        ],
+        "st": 0,
+        "text": "url",
+        "w": 0.30853832340259579
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          245,
+          353
+        ],
+        "st": 0,
+        "text": "default",
+        "w": 0.2991933571664831
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              350
+            ],
+            "st": 0,
+            "text": "json output",
+            "w": 0.25903992958972644
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          350,
+          466,
+          467,
+          493
+        ],
+        "st": 0,
+        "text": "output",
+        "w": 0.2991933571664831
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              13
+            ],
+            "st": 0,
+            "text": "object graph",
+            "w": 0.294643376776068
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          13
+        ],
+        "st": 0,
+        "text": "graph",
+        "w": 0.294643376776068
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              215
+            ],
+            "st": 0,
+            "text": "jackson configuration",
+            "w": 0.29097235685083028
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          215
+        ],
+        "st": 0,
+        "text": "configuration",
+        "w": 0.29097235685083028
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              23
+            ],
+            "st": 0,
+            "text": "jackson databind project",
+            "w": 0.29097235685083028
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          23
+        ],
+        "st": 0,
+        "text": "project",
+        "w": 0.29097235685083028
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              61
+            ],
+            "st": 0,
+            "text": "public void setbrand",
+            "w": 0.28524693097582066
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          61
+        ],
+        "st": 0,
+        "text": "setbrand",
+        "w": 0.28524693097582066
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              452
+            ],
+            "st": 0,
+            "text": "public void setdate",
+            "w": 0.28524693097582066
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          452
+        ],
+        "st": 0,
+        "text": "setdate",
+        "w": 0.28524693097582066
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              446
+            ],
+            "st": 0,
+            "text": "public void settype",
+            "w": 0.28524693097582066
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          446
+        ],
+        "st": 0,
+        "text": "settype",
+        "w": 0.28524693097582066
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              20
+            ],
+            "st": 0,
+            "text": "different post",
+            "w": 0.22062468704339516
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              226
+            ],
+            "st": 0,
+            "text": "pretty long post",
+            "w": 0.16220958205909172
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          6,
+          7,
+          13,
+          14,
+          17,
+          20,
+          226
+        ],
+        "st": 0,
+        "text": "post",
+        "w": 0.2810675088675828
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          130,
+          150,
+          214,
+          315
+        ],
+        "st": 0,
+        "text": "data",
+        "w": 0.27360812751621222
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          549,
+          563
+        ],
+        "st": 0,
+        "text": "john",
+        "w": 0.27360812751621222
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          257,
+          374
+        ],
+        "st": 0,
+        "text": "module",
+        "w": 0.27360812751621222
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              86
+            ],
+            "st": 0,
+            "text": "public void setage",
+            "w": 0.27001522496409108
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          86
+        ],
+        "st": 0,
+        "text": "setage",
+        "w": 0.27001522496409108
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              74
+            ],
+            "st": 0,
+            "text": "public void setfirstname",
+            "w": 0.27001522496409108
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          74
+        ],
+        "st": 0,
+        "text": "setfirstname",
+        "w": 0.27001522496409108
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              80
+            ],
+            "st": 0,
+            "text": "public void setlastname",
+            "w": 0.27001522496409108
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          80
+        ],
+        "st": 0,
+        "text": "setlastname",
+        "w": 0.27001522496409108
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              92
+            ],
+            "st": 0,
+            "text": "public void setphone",
+            "w": 0.27001522496409108
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          92
+        ],
+        "st": 0,
+        "text": "setphone",
+        "w": 0.27001522496409108
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          38,
+          518,
+          568
+        ],
+        "st": 0,
+        "text": "catch",
+        "w": 0.24062302959787524
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          58,
+          435,
+          436
+        ],
+        "st": 0,
+        "text": "null",
+        "w": 0.24062302959787524
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          549,
+          560,
+          572
+        ],
+        "st": 0,
+        "text": "owner",
+        "w": 0.24062302959787524
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          463,
+          468,
+          494
+        ],
+        "st": 0,
+        "text": "transfer",
+        "w": 0.24062302959787524
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          34,
+          516,
+          552
+        ],
+        "st": 0,
+        "text": "try",
+        "w": 0.24062302959787524
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              205,
+              213
+            ],
+            "st": 0,
+            "text": "new illegalstateexception",
+            "w": 0.23504612673970554
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          197,
+          205,
+          213
+        ],
+        "st": 0,
+        "text": "illegalstateexception",
+        "w": 0.23504612673970554
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          62,
+          108,
+          111,
+          211,
+          410
+        ],
+        "st": 0,
+        "text": "case",
+        "w": 0.23414896699003876
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              396
+            ],
+            "st": 0,
+            "text": "public void",
+            "w": 0.23313276140499897
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          396
+        ],
+        "st": 0,
+        "text": "void",
+        "w": 0.23313276140499897
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              6
+            ],
+            "st": 0,
+            "text": "new blog",
+            "w": 0.23136051556095394
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          4,
+          6,
+          7,
+          8
+        ],
+        "st": 0,
+        "text": "blog",
+        "w": 0.23136051556095394
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              63
+            ],
+            "st": 0,
+            "text": "public void setdoors",
+            "w": 0.22838400827432259
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          63
+        ],
+        "st": 0,
+        "text": "setdoors",
+        "w": 0.22838400827432259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          102,
+          109,
+          175
+        ],
+        "st": 0,
+        "text": "approach",
+        "w": 0.22767490438220228
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              218
+            ],
+            "st": 0,
+            "text": "final advantage",
+            "w": 0.22474724015671096
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          175,
+          218
+        ],
+        "st": 0,
+        "text": "advantage",
+        "w": 0.22474724015671096
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              86
+            ],
+            "st": 0,
+            "text": "different way",
+            "w": 0.2165607266380877
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              9
+            ],
+            "st": 0,
+            "text": "simplest way",
+            "w": 0.19796477287644534
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          13,
+          19,
+          50,
+          9,
+          86,
+          242
+        ],
+        "st": 0,
+        "text": "way",
+        "w": 0.22042518056094235
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              142
+            ],
+            "st": 0,
+            "text": "json inputstream",
+            "w": 0.2188865020129698
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          142,
+          144,
+          148,
+          185
+        ],
+        "st": 0,
+        "text": "inputstream",
+        "w": 0.2188865020129698
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          17,
+          63,
+          82
+        ],
+        "st": 0,
+        "text": "setter",
+        "w": 0.21757513892799241
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              98
+            ],
+            "st": 0,
+            "text": "public void setaddress",
+            "w": 0.21181328207517497
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          98
+        ],
+        "st": 0,
+        "text": "setaddress",
+        "w": 0.21181328207517497
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              50
+            ],
+            "st": 0,
+            "text": "good thing",
+            "w": 0.20665769998858036
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          10,
+          50,
+          210
+        ],
+        "st": 0,
+        "text": "thing",
+        "w": 0.20665769998858036
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              183
+            ],
+            "st": 0,
+            "text": "json source",
+            "w": 0.20650982360336956
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          52,
+          183
+        ],
+        "st": 0,
+        "text": "source",
+        "w": 0.20650982360336956
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              17
+            ],
+            "st": 0,
+            "text": "builder implementation",
+            "w": 0.20205887578637116
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          17
+        ],
+        "st": 0,
+        "text": "implementation",
+        "w": 0.20205887578637116
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              227
+            ],
+            "st": 0,
+            "text": "excellent choice",
+            "w": 0.13827742428094186
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          62,
+          111,
+          227
+        ],
+        "st": 0,
+        "text": "choice",
+        "w": 0.20022733152400943
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          14,
+          218
+        ],
+        "st": 0,
+        "text": "detail",
+        "w": 0.20022733152400943
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          196,
+          197,
+          209
+        ],
+        "st": 0,
+        "text": "invariant",
+        "w": 0.20022733152400943
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          287,
+          290
+        ],
+        "st": 0,
+        "text": "equal",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          171,
+          196
+        ],
+        "st": 0,
+        "text": "fiat",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          588,
+          591
+        ],
+        "st": 0,
+        "text": "index",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          151
+        ],
+        "st": 0,
+        "text": "input",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              423
+            ],
+            "st": 0,
+            "text": "closer look",
+            "w": 0.1747198306743924
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          423,
+          501
+        ],
+        "st": 0,
+        "text": "look",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          420,
+          428
+        ],
+        "st": 0,
+        "text": "millisecond",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          380,
+          400
+        ],
+        "st": 0,
+        "text": "producer",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              124
+            ],
+            "st": 0,
+            "text": "previous section",
+            "w": 0.14292983774541523
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          124,
+          423
+        ],
+        "st": 0,
+        "text": "section",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          90
+        ],
+        "st": 0,
+        "text": "set",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          13,
+          53
+        ],
+        "st": 0,
+        "text": "stream",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          274
+        ],
+        "st": 0,
+        "text": "vc",
+        "w": 0.19413314519376931
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              19
+            ],
+            "st": 0,
+            "text": "good reason",
+            "w": 0.18731510939646193
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          19,
+          199,
+          501
+        ],
+        "st": 0,
+        "text": "reason",
+        "w": 0.18731510939646193
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              231
+            ],
+            "st": 0,
+            "text": "value pair",
+            "w": 0.17764059623460082
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          231
+        ],
+        "st": 0,
+        "text": "pair",
+        "w": 0.17764059623460082
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          9,
+          199,
+          200,
+          226
+        ],
+        "st": 0,
+        "text": "time",
+        "w": 0.17116653362676434
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              226
+            ],
+            "st": 0,
+            "text": "exact json structure",
+            "w": 0.16295039367977054
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          226
+        ],
+        "st": 0,
+        "text": "structure",
+        "w": 0.16295039367977054
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          14,
+          16
+        ],
+        "st": 0,
+        "text": "book",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          168
+        ],
+        "st": 0,
+        "text": "couple",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          177
+        ],
+        "st": 0,
+        "text": "fact",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          112,
+          201
+        ],
+        "st": 0,
+        "text": "following",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          230,
+          234
+        ],
+        "st": 0,
+        "text": "ide",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              234
+            ],
+            "st": 0,
+            "text": "similar plugin",
+            "w": 0.11893483368882345
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          230,
+          234
+        ],
+        "st": 0,
+        "text": "plugin",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          0,
+          8
+        ],
+        "st": 0,
+        "text": "practice",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              105
+            ],
+            "st": 0,
+            "text": "main problem",
+            "w": 0.11893483368882345
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          51,
+          105
+        ],
+        "st": 0,
+        "text": "problem",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          205,
+          213
+        ],
+        "st": 0,
+        "text": "range",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          105,
+          112
+        ],
+        "st": 0,
+        "text": "solution",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          199,
+          215
+        ],
+        "st": 0,
+        "text": "thread",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          205,
+          213
+        ],
+        "st": 0,
+        "text": "thread-safe",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          200,
+          215
+        ],
+        "st": 0,
+        "text": "window",
+        "w": 0.16154215033977259
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              598
+            ],
+            "st": 0,
+            "text": "close toc",
+            "w": 0.15530651615501545
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          598
+        ],
+        "st": 0,
+        "text": "toc",
+        "w": 0.15530651615501545
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              71
+            ],
+            "st": 0,
+            "text": "set part",
+            "w": 0.15439565403254787
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          108,
+          71
+        ],
+        "st": 0,
+        "text": "part",
+        "w": 0.15439565403254787
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              227
+            ],
+            "st": 0,
+            "text": "good indicator",
+            "w": 0.15424873237524708
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          227
+        ],
+        "st": 0,
+        "text": "indicator",
+        "w": 0.15424873237524708
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          175,
+          479,
+          577
+        ],
+        "st": 0,
+        "text": "use",
+        "w": 0.1447712707455561
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              219
+            ],
+            "st": 0,
+            "text": "simple interface",
+            "w": 0.13827742428094186
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          219
+        ],
+        "st": 0,
+        "text": "interface",
+        "w": 0.13827742428094186
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              107
+            ],
+            "st": 0,
+            "text": "complete state",
+            "w": 0.13827742428094186
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              192
+            ],
+            "st": 0,
+            "text": "incomplete state",
+            "w": 0.13827742428094186
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              106
+            ],
+            "st": 0,
+            "text": "inconsistent state",
+            "w": 0.13827742428094186
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          106,
+          107,
+          192
+        ],
+        "st": 0,
+        "text": "state",
+        "w": 0.13827742428094186
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              31
+            ],
+            "st": 0,
+            "text": "valid option",
+            "w": 0.12847577331855772
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          31
+        ],
+        "st": 0,
+        "text": "option",
+        "w": 0.12847577331855772
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              17
+            ],
+            "st": 0,
+            "text": "different result",
+            "w": 0.12779563075827521
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          17
+        ],
+        "st": 0,
+        "text": "result",
+        "w": 0.12779563075827521
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          72
+        ],
+        "st": 0,
+        "text": "character",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          24
+        ],
+        "st": 0,
+        "text": "classpath",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          1
+        ],
+        "st": 0,
+        "text": "cookie",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "course",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          249
+        ],
+        "st": 0,
+        "text": "deserialization",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          592
+        ],
+        "st": 0,
+        "text": "element",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          211
+        ],
+        "st": 0,
+        "text": "exception",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          26
+        ],
+        "st": 0,
+        "text": "information",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          549
+        ],
+        "st": 0,
+        "text": "jack",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          231
+        ],
+        "st": 0,
+        "text": "key",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          72
+        ],
+        "st": 0,
+        "text": "lowercase",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          87
+        ],
+        "st": 0,
+        "text": "need",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          315
+        ],
+        "st": 0,
+        "text": "output-2.json",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          227
+        ],
+        "st": 0,
+        "text": "parsing",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          250
+        ],
+        "st": 0,
+        "text": "register",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          430
+        ],
+        "st": 0,
+        "text": "representation",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          1
+        ],
+        "st": 0,
+        "text": "site",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          274
+        ],
+        "st": 0,
+        "text": "super",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          0
+        ],
+        "st": 0,
+        "text": "tech",
+        "w": 0.11465816287132642
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              173
+            ],
+            "st": 0,
+            "text": "fluent interface idiom",
+            "w": 0.1106395928514749
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          173
+        ],
+        "st": 0,
+        "text": "idiom",
+        "w": 0.1106395928514749
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          230,
+          5
+        ],
+        "st": 0,
+        "text": "update",
+        "w": 0.10503377958433464
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              597
+            ],
+            "st": 0,
+            "text": "copyright jenkov aps",
+            "w": 0.10319234658419378
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          597
+        ],
+        "st": 0,
+        "text": "aps",
+        "w": 0.10319234658419378
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              477
+            ],
+            "st": 0,
+            "text": "human being",
+            "w": 0.10319234658419378
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          477
+        ],
+        "st": 0,
+        "text": "being",
+        "w": 0.10319234658419378
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              1
+            ],
+            "st": 0,
+            "text": "user experience",
+            "w": 0.10319234658419378
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          1
+        ],
+        "st": 0,
+        "text": "experience",
+        "w": 0.10319234658419378
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              0
+            ],
+            "st": 0,
+            "text": "media lab",
+            "w": 0.10319234658419378
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          0
+        ],
+        "st": 0,
+        "text": "lab",
+        "w": 0.10319234658419378
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              214
+            ],
+            "st": 0,
+            "text": "rest service",
+            "w": 0.10319234658419378
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          214
+        ],
+        "st": 0,
+        "text": "service",
+        "w": 0.10319234658419378
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          235
+        ],
+        "st": 0,
+        "text": "advertisement",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          175
+        ],
+        "st": 0,
+        "text": "beginning",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          110
+        ],
+        "st": 0,
+        "text": "benefit",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          16
+        ],
+        "st": 0,
+        "text": "bit",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          11
+        ],
+        "st": 0,
+        "text": "bonus",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          194
+        ],
+        "st": 0,
+        "text": "call",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          30
+        ],
+        "st": 0,
+        "text": "chance",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          17
+        ],
+        "st": 0,
+        "text": "construction",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          5
+        ],
+        "st": 0,
+        "text": "content",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          177
+        ],
+        "st": 0,
+        "text": "critique",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          109
+        ],
+        "st": 0,
+        "text": "disadvantage",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          184
+        ],
+        "st": 0,
+        "text": "doe",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          16
+        ],
+        "st": 0,
+        "text": "gang",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          195
+        ],
+        "st": 0,
+        "text": "id",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          13
+        ],
+        "st": 0,
+        "text": "introduction",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          195
+        ],
+        "st": 0,
+        "text": "invocation",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          106
+        ],
+        "st": 0,
+        "text": "issue",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          3
+        ],
+        "st": 0,
+        "text": "jlordiales",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          218
+        ],
+        "st": 0,
+        "text": "kind",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          191
+        ],
+        "st": 0,
+        "text": "line",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          238
+        ],
+        "st": 0,
+        "text": "loading",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          7
+        ],
+        "st": 0,
+        "text": "matter",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          173
+        ],
+        "st": 0,
+        "text": "moment",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          215
+        ],
+        "st": 0,
+        "text": "opportunity",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          17
+        ],
+        "st": 0,
+        "text": "overuse",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          11
+        ],
+        "st": 0,
+        "text": "past",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          200
+        ],
+        "st": 0,
+        "text": "period",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          12
+        ],
+        "st": 0,
+        "text": "process",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          175
+        ],
+        "st": 0,
+        "text": "shortcoming",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          17
+        ],
+        "st": 0,
+        "text": "step",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          8
+        ],
+        "st": 0,
+        "text": "thought",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          13
+        ],
+        "st": 0,
+        "text": "title",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          14
+        ],
+        "st": 0,
+        "text": "ton",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          200
+        ],
+        "st": 0,
+        "text": "vulnerability",
+        "w": 0.095409396297342866
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              18
+            ],
+            "st": 0,
+            "text": "substantial amount",
+            "w": 0.085868456667608589
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          18
+        ],
+        "st": 0,
+        "text": "amount",
+        "w": 0.085868456667608589
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              17
+            ],
+            "st": 0,
+            "text": "unnecessary complexity",
+            "w": 0.085868456667608589
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          17
+        ],
+        "st": 0,
+        "text": "complexity",
+        "w": 0.085868456667608589
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              63
+            ],
+            "st": 0,
+            "text": "javabeans convention",
+            "w": 0.085868456667608589
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          63
+        ],
+        "st": 0,
+        "text": "convention",
+        "w": 0.085868456667608589
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              233
+            ],
+            "st": 0,
+            "text": "informed decision",
+            "w": 0.085868456667608589
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          233
+        ],
+        "st": 0,
+        "text": "decision",
+        "w": 0.085868456667608589
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              8
+            ],
+            "st": 0,
+            "text": "agile developer",
+            "w": 0.085868456667608589
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          8
+        ],
+        "st": 0,
+        "text": "developer",
+        "w": 0.085868456667608589
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              103
+            ],
+            "st": 0,
+            "text": "interested in.",
+            "w": 0.085868456667608589
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          103
+        ],
+        "st": 0,
+        "text": "in.",
+        "w": 0.085868456667608589
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              16
+            ],
+            "st": 0,
+            "text": "worth mentioning",
+            "w": 0.085868456667608589
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          16
+        ],
+        "st": 0,
+        "text": "mentioning",
+        "w": 0.085868456667608589
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              11
+            ],
+            "st": 0,
+            "text": "centralized place",
+            "w": 0.085868456667608589
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          11
+        ],
+        "st": 0,
+        "text": "place",
+        "w": 0.085868456667608589
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              227
+            ],
+            "st": 0,
+            "text": "exact science",
+            "w": 0.085868456667608589
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          227
+        ],
+        "st": 0,
+        "text": "science",
+        "w": 0.085868456667608589
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          312,
+          346,
+          351
+        ],
+        "st": 0,
+        "text": "bmw",
+        "w": 0
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              224
+            ],
+            "st": 0,
+            "text": "usercollection buildusercollection",
+            "w": 0
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          224
+        ],
+        "st": 0,
+        "text": "buildusercollection",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          35,
+          108,
+          117,
+          517,
+          553
+        ],
+        "st": 0,
+        "text": "carjson",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          490
+        ],
+        "st": 0,
+        "text": "dateformat",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          267
+        ],
+        "st": 0,
+        "text": "deserializationcontext",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          380,
+          401
+        ],
+        "st": 0,
+        "text": "doorcount",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          81
+        ],
+        "st": 0,
+        "text": "enginenumber",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          284,
+          287,
+          290
+        ],
+        "st": 0,
+        "text": "fieldname",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          121
+        ],
+        "st": 0,
+        "text": "filereader",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          271,
+          391,
+          398
+        ],
+        "st": 0,
+        "text": "ioexception",
+        "w": 0
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              4,
+              596
+            ],
+            "st": 0,
+            "text": "jakob jenkov",
+            "w": 0
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          4,
+          596
+        ],
+        "st": 0,
+        "text": "jenkov",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          184
+        ],
+        "st": 0,
+        "text": "jhon",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          549
+        ],
+        "st": 0,
+        "text": "jill",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          173,
+          198
+        ],
+        "st": 0,
+        "text": "jsonarray",
+        "w": 0
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              396
+            ],
+            "st": 0,
+            "text": "jsongenerator jsongenerator",
+            "w": 0
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          385,
+          396
+        ],
+        "st": 0,
+        "text": "jsongenerator",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          504,
+          509,
+          522,
+          536,
+          538,
+          541,
+          544,
+          580,
+          585,
+          587
+        ],
+        "st": 0,
+        "text": "jsonnode",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          239
+        ],
+        "st": 0,
+        "text": "jsonobject",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          265,
+          282
+        ],
+        "st": 0,
+        "text": "jsontoken",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          550,
+          564,
+          575
+        ],
+        "st": 0,
+        "text": "nestedobject",
+        "w": 0
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              397
+            ],
+            "st": 0,
+            "text": "serializerprovider serializerprovider",
+            "w": 0
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          387,
+          397
+        ],
+        "st": 0,
+        "text": "serializerprovider",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          269
+        ],
+        "st": 0,
+        "text": "stddeserializer",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          389
+        ],
+        "st": 0,
+        "text": "stdserializer",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          200
+        ],
+        "st": 0,
+        "text": "typereference",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          163
+        ],
+        "st": 0,
+        "text": "utf-8",
+        "w": 0
+      }
+    ],
+    "mp": false,
+    "sentenceIds": [],
+    "st": 0,
+    "text": "",
+    "w": 1
+  },
+  "namedEntityTree": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Mercedes",
+            "w": 0.14545454545454545
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "BMW",
+            "w": 0.054545454545454543
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Fiat",
+            "w": 0.036363636363636362
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "XYZ",
+            "w": 0.018181818181818181
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "NE-org",
+        "w": 0.14545454545454545
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Jackson",
+            "w": 0.036363636363636362
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "NE-loc",
+        "w": 0.036363636363636362
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Doe",
+            "w": 1
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Jackson",
+            "w": 1
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Jakob Jenkov",
+            "w": 0.036363636363636362
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Jack",
+            "w": 0.018181818181818181
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Jackson Date",
+            "w": 0.018181818181818181
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Jackson JsonNode",
+            "w": 0.018181818181818181
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Jackson Tree",
+            "w": 0.018181818181818181
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Jill",
+            "w": 0.018181818181818181
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "John",
+            "w": 0.018181818181818181
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "Model",
+            "w": 0.018181818181818181
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "NE-person",
+        "w": 1
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "builder constructor",
+            "w": 1
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "setter",
+            "w": 0.072727272727272724
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "NE-pos",
+        "w": 0.53636363636363638
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "December 13 , 2012",
+            "w": 1
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "January 1st 1970",
+            "w": 0.036363636363636362
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "2 , 1 , 3",
+            "w": 0.018181818181818181
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "3 , 1 , 8",
+            "w": 0.018181818181818181
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "NE-date",
+        "w": 0.51818181818181819
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "http:\/\/code.google.com\/p\/bpep\/",
+            "w": 1
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [],
+            "st": 0,
+            "text": "http:\/\/jenkov.com\/some-data.json",
+            "w": 0.018181818181818181
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "NE-url",
+        "w": 0.509090909090909
+      }
+    ],
+    "mp": false,
+    "sentenceIds": [],
+    "st": 0,
+    "text": "",
+    "w": 4.3428823957952E-311
+  },
+  "relatedFactsQuery": null,
+  "relatedFactsTree": null
+}

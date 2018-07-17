@@ -1,0 +1,711 @@
+{
+  "summarizerDoc": {
+    "id": 0,
+    "size": 1606,
+    "title": "about_us.html.html",
+    "url": "https:\/\/www.intellexer.com\/about_us.html",
+    "error": null,
+    "sizeFormat": null
+  },
+  "structure": "General",
+  "topics": [
+    "Tech.information_technology"
+  ],
+  "items": [],
+  "totalItemsCount": 18,
+  "conceptTree": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              16
+            ],
+            "st": 0,
+            "text": "knowledge management expert",
+            "w": 1
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          2,
+          16
+        ],
+        "st": 0,
+        "text": "expert",
+        "w": 1
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          4,
+          13
+        ],
+        "st": 0,
+        "text": "information retrieval",
+        "w": 0.68505991171791736
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              8,
+              4
+            ],
+            "st": 0,
+            "text": "semantic tool",
+            "w": 0.49065903691152585
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              4
+            ],
+            "st": 0,
+            "text": "intellexer tool",
+            "w": 0.2463667990983377
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              8
+            ],
+            "st": 0,
+            "text": "unique tool",
+            "w": 0.18138667967201344
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          8,
+          4
+        ],
+        "st": 0,
+        "text": "tool",
+        "w": 0.49065903691152585
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              13
+            ],
+            "st": 0,
+            "text": "document management",
+            "w": 0.38793974097252859
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              3
+            ],
+            "st": 0,
+            "text": "knowledge management",
+            "w": 0.37681660045083115
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              14
+            ],
+            "st": 0,
+            "text": "data management",
+            "w": 0.31287376166708175
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          4,
+          14,
+          13,
+          3
+        ],
+        "st": 0,
+        "text": "management",
+        "w": 0.42865408405549332
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          7,
+          13
+        ],
+        "st": 0,
+        "text": "knowledge",
+        "w": 0.4062238960577112
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              5
+            ],
+            "st": 0,
+            "text": "detailed information",
+            "w": 0.24805058734856064
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              9
+            ],
+            "st": 0,
+            "text": "structure necessary information",
+            "w": 0.20416924498093683
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          5,
+          9
+        ],
+        "st": 0,
+        "text": "information",
+        "w": 0.3796946144514321
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              7
+            ],
+            "st": 0,
+            "text": "electronic document",
+            "w": 0.272159418584117
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          11,
+          7
+        ],
+        "st": 0,
+        "text": "document",
+        "w": 0.34722539788956386
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              14
+            ],
+            "st": 0,
+            "text": "information processing",
+            "w": 0.31303070677488487
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              15
+            ],
+            "st": 0,
+            "text": "electronic document processing",
+            "w": 0.26356187875552389
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          15,
+          14
+        ],
+        "st": 0,
+        "text": "processing",
+        "w": 0.31303070677488487
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          1
+        ],
+        "st": 0,
+        "text": "company",
+        "w": 0.30536529726648515
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              11
+            ],
+            "st": 0,
+            "text": "entire knowledge management system",
+            "w": 0.2791016400614223
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              14
+            ],
+            "st": 0,
+            "text": "existing system",
+            "w": 0.18138667967201344
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          11,
+          14
+        ],
+        "st": 0,
+        "text": "system",
+        "w": 0.2791016400614223
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          15
+        ],
+        "st": 0,
+        "text": "knowledge management automation service",
+        "w": 0.25388699036361578
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          4,
+          17
+        ],
+        "st": 0,
+        "text": "problem",
+        "w": 0.2463667990983377
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              13
+            ],
+            "st": 0,
+            "text": "semantic product",
+            "w": 0.24532951845576292
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              14
+            ],
+            "st": 0,
+            "text": "new product",
+            "w": 0.18138667967201344
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          14,
+          13
+        ],
+        "st": 0,
+        "text": "product",
+        "w": 0.2463667990983377
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              13
+            ],
+            "st": 0,
+            "text": "intellexer software",
+            "w": 0.2463667990983377
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              14
+            ],
+            "st": 0,
+            "text": "desktop software",
+            "w": 0.18138667967201344
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          14,
+          13
+        ],
+        "st": 0,
+        "text": "software",
+        "w": 0.2463667990983377
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              16
+            ],
+            "st": 0,
+            "text": "complicated task",
+            "w": 0.18138667967201344
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              15
+            ],
+            "st": 0,
+            "text": "custom task",
+            "w": 0.18138667967201344
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          16,
+          15
+        ],
+        "st": 0,
+        "text": "task",
+        "w": 0.2463667990983377
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          15
+        ],
+        "st": 0,
+        "text": "data retrieval process",
+        "w": 0.21598897895075561
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          7
+        ],
+        "st": 0,
+        "text": "company computer",
+        "w": 0.19490021906014984
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          0
+        ],
+        "st": 0,
+        "text": "company overview",
+        "w": 0.19490021906014984
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          16
+        ],
+        "st": 0,
+        "text": "analyst",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          14
+        ],
+        "st": 0,
+        "text": "capability",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          15
+        ],
+        "st": 0,
+        "text": "classification",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          16
+        ],
+        "st": 0,
+        "text": "consultant",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          7
+        ],
+        "st": 0,
+        "text": "database",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          17
+        ],
+        "st": 0,
+        "text": "experience",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          9
+        ],
+        "st": 0,
+        "text": "fact",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          13
+        ],
+        "st": 0,
+        "text": "family",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          4
+        ],
+        "st": 0,
+        "text": "number",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          9
+        ],
+        "st": 0,
+        "text": "opinion",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          10
+        ],
+        "st": 0,
+        "text": "question",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          9
+        ],
+        "st": 0,
+        "text": "relation",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          9
+        ],
+        "st": 0,
+        "text": "sentiment",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          2
+        ],
+        "st": 0,
+        "text": "team",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          4
+        ],
+        "st": 0,
+        "text": "user",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          7
+        ],
+        "st": 0,
+        "text": "web-sites",
+        "w": 0.14550820030711153
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          5
+        ],
+        "st": 0,
+        "text": "case study",
+        "w": 0.13095738027640039
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          2
+        ],
+        "st": 0,
+        "text": "computational linguist",
+        "w": 0.13095738027640039
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          3
+        ],
+        "st": 0,
+        "text": "enterprise workflow",
+        "w": 0.13095738027640039
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          2
+        ],
+        "st": 0,
+        "text": "experienced developer",
+        "w": 0.13095738027640039
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          9
+        ],
+        "st": 0,
+        "text": "named entity",
+        "w": 0.13095738027640039
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          16
+        ],
+        "st": 0,
+        "text": "non-standard approach",
+        "w": 0.13095738027640039
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          10
+        ],
+        "st": 0,
+        "text": "relevant answer",
+        "w": 0.13095738027640039
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          4
+        ],
+        "st": 0,
+        "text": "wide range",
+        "w": 0.13095738027640039
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "online api",
+        "w": 0.11640656024568924
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "effectivesoft",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "intellexer",
+        "w": 0
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [],
+        "st": 0,
+        "text": "sdk",
+        "w": 0
+      }
+    ],
+    "mp": false,
+    "sentenceIds": [],
+    "st": 0,
+    "text": "",
+    "w": 0
+  },
+  "namedEntityTree": {
+    "children": [],
+    "mp": false,
+    "sentenceIds": [],
+    "st": 0,
+    "text": "Root",
+    "w": 0
+  }
+}

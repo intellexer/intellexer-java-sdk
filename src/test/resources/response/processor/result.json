@@ -1,0 +1,75 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Intellexer Summarizer has an unique feature",
+        "beginOffset": 0,
+        "endOffset": 43
+      },
+      "tokens": [
+        {
+          "text": {
+            "content": "Intellexer",
+            "beginOffset": 0,
+            "endOffset": 10
+          },
+          "partOfSpeechTag": "NN",
+          "lemma": "intellexer"
+        },
+        {
+          "text": {
+            "content": "Summarizer",
+            "beginOffset": 11,
+            "endOffset": 21
+          },
+          "partOfSpeechTag": "NN",
+          "lemma": "summarizer"
+        },
+        {
+          "text": {
+            "content": "has",
+            "beginOffset": 22,
+            "endOffset": 25
+          },
+          "partOfSpeechTag": "VB",
+          "lemma": "have"
+        },
+        {
+          "text": {
+            "content": "an",
+            "beginOffset": 26,
+            "endOffset": 28
+          },
+          "partOfSpeechTag": "DT",
+          "lemma": null
+        },
+        {
+          "text": {
+            "content": "unique",
+            "beginOffset": 29,
+            "endOffset": 35
+          },
+          "partOfSpeechTag": "JJ",
+          "lemma": "unique"
+        },
+        {
+          "text": {
+            "content": "feature",
+            "beginOffset": 36,
+            "endOffset": 43
+          },
+          "partOfSpeechTag": "NN",
+          "lemma": "feature"
+        }
+      ],
+      "relations": [
+        {
+          "subject": "Intellexer Summarizer",
+          "verb": "has",
+          "object": "unique feature",
+          "adverbialPhrase": null
+        }
+      ]
+    }
+  ]
+}

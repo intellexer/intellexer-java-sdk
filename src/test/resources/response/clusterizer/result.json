@@ -1,0 +1,162 @@
+{
+  "conceptTree": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              16
+            ],
+            "st": 0,
+            "text": "knowledge management expert",
+            "w": 1
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          2,
+          16
+        ],
+        "st": 0,
+        "text": "expert",
+        "w": 1
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          4,
+          13
+        ],
+        "st": 0,
+        "text": "information retrieval",
+        "w": 0.68505991171791736
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              8,
+              4
+            ],
+            "st": 0,
+            "text": "semantic tool",
+            "w": 0.49065903691152585
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              4
+            ],
+            "st": 0,
+            "text": "intellexer tool",
+            "w": 0.2463667990983377
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              8
+            ],
+            "st": 0,
+            "text": "unique tool",
+            "w": 0.18138667967201344
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          8,
+          4
+        ],
+        "st": 0,
+        "text": "tool",
+        "w": 0.49065903691152585
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              13
+            ],
+            "st": 0,
+            "text": "document management",
+            "w": 0.38793974097252859
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              3
+            ],
+            "st": 0,
+            "text": "knowledge management",
+            "w": 0.37681660045083115
+          },
+          {
+            "children": [],
+            "mp": false,
+            "sentenceIds": [
+              14
+            ],
+            "st": 0,
+            "text": "data management",
+            "w": 0.31287376166708175
+          }
+        ],
+        "mp": false,
+        "sentenceIds": [
+          4,
+          14,
+          13,
+          3
+        ],
+        "st": 0,
+        "text": "management",
+        "w": 0.42865408405549332
+      },
+      {
+        "children": [],
+        "mp": false,
+        "sentenceIds": [
+          7,
+          13
+        ],
+        "st": 0,
+        "text": "knowledge",
+        "w": 0.4062238960577112
+      }
+    ],
+    "mp": false,
+    "sentenceIds": [],
+    "st": 0,
+    "text": "",
+    "w": 0
+  },
+  "sentences": [
+    "Intellexer - About Us - company overview",
+    "Company Overview",
+    "EffectiveSoft is a  team of experienced developers , computational linguists and <b>experts<\/b>.",
+    "R&D department of EffectiveSoft specializes in <b>knowledge management<\/b> and enterprise workflow.",
+    "We have developed a wide range of <b>Intellexer semantic tools<\/b> that enable users to solve a number of problems in the field of <b>information retrieval<\/b> and <b>management<\/b>.",
+    "For more detailed information see  Case Studies .",
+    "Why will it be interesting for me?",
+    "All the <b>knowledge<\/b> you need is distributed into thousands of electronic documents, stored at web-sites, databases and your company's computers.",
+    "Our <b>unique semantic tools<\/b> will help you to:",
+    "retrieve and structure necessary information ( sentiments ,  opinion ,  named entities ,  relations ,  facts , etc.)",
+    "find relevant answers for your questions",
+    "combine all documents into one entire knowledge management system.",
+    "What we offer",
+    "Intellexer software is a family of semantic products for <b>information retrieval<\/b>, and <b>knowledge<\/b> and <b>document management<\/b>.",
+    "We offer  online API ,  SDK , and  desktop software  all of which can be used to enhance capabilities of existing systems or develop new products for information processing and <b>data management<\/b>.",
+    "We offer knowledge management automation services and solve custom tasks associated with electronic documents processing, their classification and data retrieval process.",
+    "Our <b>knowledge management experts<\/b>, analysts and consultants solve complicated tasks and apply non-standard approaches.",
+    "We are pleased to share our experience to solve your every problem."
+  ]
+}

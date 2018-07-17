@@ -1,0 +1,19 @@
+{
+  "proximity": 0.36474332620803873,
+  "document1": {
+    "id": 0,
+    "size": 139,
+    "title": "temp1",
+    "url": null,
+    "error": null,
+    "sizeFormat": "139,00 B"
+  },
+  "document2": {
+    "id": 0,
+    "size": 374,
+    "title": "temp2",
+    "url": null,
+    "error": null,
+    "sizeFormat": "374,00 B"
+  }
+}

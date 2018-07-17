@@ -1,0 +1,25 @@
+Crontab
+The crontab (cron derives from chronos, Greek for time; tab stands for table) command, found in Unix and Unix-like operating systems, is used to schedule commands to be executed periodically. To see what crontabs are currently running on your system, you can open a terminal and run:
+$ sudo crontab -l
+This wil open a the default editor (could be vi or pico, if you want you can change the default editor) to let us manipulate the crontab. If you save and exit the editor, all your cronjobs are saved into crontab. Cronjobs are written in the following format:
+Schedule Tasks on Linux Using Crontab
+ 4 minute read
+If you've got a website that's heavy on your web server, you might want to run some processes like generating thumbnails or enriching data in the background. This way it can not interfere with the user interface. Linux has a great program for this called cron. It allows tasks to be automatically run in the background at regular intervals. You could also use it to automatically create backups, synchronize files, schedule updates, and much more. Welcome to the wonderful world of crontab.
+
+Crontab
+The crontab (cron derives from chronos, Greek for time; tab stands for table) command, found in Unix and Unix-like operating systems, is used to schedule commands to be executed periodically. To see what crontabs are currently running on your system, you can open a terminal and run:
+
+$ sudo crontab -l
+To edit the list of cronjobs you can run:
+
+$ sudo crontab -e
+This wil open a the default editor (could be vi or pico, if you want you can change the default editor) to let us manipulate the crontab. If you save and exit the editor, all your cronjobs are saved into crontab. Cronjobs are written in the following format:
+
+* * * * * /bin/execute/this/script.sh
+Scheduling explained
+As you can see there are 5 stars. The stars represent different date parts in the following order:
+minute (from 0 to 59)
+hour (from 0 to 23)
+day of month (from 1 to 31)
+month (from 1 to 12)
+day of week (from 0 to 6) (0=Sunday)
